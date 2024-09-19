@@ -1,0 +1,6 @@
+
+features = [
+    "hot"
+]
+code_watch_folders = ["./src"]
+asset_folders = ["./assets"]
